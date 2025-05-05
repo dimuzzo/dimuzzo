@@ -9,7 +9,6 @@
 
 - 🎓 I'm currently studying **Computer Science** at UniTo  
 - 💻 I'm working on some projects  
-- 📊 I enjoy working with data using **Python**, **Pandas**, **GeoPandas** and so more 
 - 🧠 Learning more about **AI**, **spatial computing**, and full-stack development  
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm dimuzzo</h1>
+<h1 align="center">Hi! I'm dimuzzo 🐶</h1>
 <h3 align="center">A Computer Science student trying to learn something new everyday</h3>
 
 <div align="center">
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimuzzo&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&layout=compact&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=dimuzzo&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---

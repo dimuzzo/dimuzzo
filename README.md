@@ -24,14 +24,14 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-demo-b844a8301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_aledemo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  <a href="https://t.me/dimuzzo" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/dimuzzo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />

@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student trying to learn something new everyday</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/66/23/e7/6623e73500f43b8d20aaa35a46465641.gif" alt="Cute corgi gif" width="300"/>
+  <img src="https://media1.tenor.com/m/MMkyUgApgcAAAAAC/black-hole.gif" alt="rGIF" width="300"/>
 </div>
 
 ---

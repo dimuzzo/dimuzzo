@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm dimuzzo</h1>
-<h3 align="center">A Computer Science student trying to learn something new everyday</h3>
+<h1 align="center">Hi! I'm dimuzzo :)</h1>
+<h3 align="center">A Computer Science student trying to learn something new every day</h3>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/MMkyUgApgcAAAAAC/black-hole.gif" alt="rGIF" width="300"/>
@@ -7,24 +7,13 @@
 
 ---
 
-- 🎓 I'm currently studying **Computer Science** at UniTo  
-- 💻 I'm working on some projects  
-- 🧠 Learning more about **AI**, **spatial computing**, and full-stack development  
+- I'm currently studying **Computer Science** at UniTo  
+- I'm working on some projects  
+- Learning more about **AI**, **spatial computing**, and **"full-stack" development**  
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</p>
-
----
-
-### 🌐 Links
+### Links
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro-demo-b844a8301" target="_blank">
@@ -46,12 +35,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimuzzo&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&layout=compact&theme=radical" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=dimuzzo&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://youtu.be/-RRWvHTQjPE?si=7zjDyqdbi9vw5_SQ" target="_blank">
+    <img src="https://img.shields.io/badge/The_Cruel_Angel's_Thesis-202830?style=flat&logo=youtube&logoColor=red" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wcew4dSiK19j8k7KaDEZjw.gif" alt="Evangelion" width="400"/>
+</div>

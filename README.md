@@ -7,9 +7,12 @@
 
 ---
 
+### About me
+
 - I'm currently studying **Computer Science** at UniTo  
 - I'm working on some projects  
-- Learning more about **AI**, **spatial computing**, and **"full-stack" development**  
+- Learning more about **AI**, **spatial computing**, and **"full-stack" development**
+- I love listening to music in my free time
 
 ---
 

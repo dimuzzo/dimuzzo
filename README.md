@@ -48,11 +48,11 @@
 ---
 
 <p align="center">
-  <a href="https://youtu.be/-RRWvHTQjPE?si=7zjDyqdbi9vw5_SQ" target="_blank">
-    <img src="https://img.shields.io/badge/The_Cruel_Angel's_Thesis-202830?style=flat&logo=youtube&logoColor=red" />
+  <a href="https://youtu.be/TCd6PfxOy0Y?si=qZ4r4irbhi4v0-Pr" target="_blank">
+    <img src="https://img.shields.io/badge/Veridis_Quo-202830?style=flat&logo=youtube&logoColor=red" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wcew4dSiK19j8k7KaDEZjw.gif" alt="Evangelion" width="400"/>
+  <img src="https://24.media.tumblr.com/13010d33870486068746a91927d46773/tumblr_mmr9wm1Cfo1qhcd6po1_r1_500.gif" alt="DaftPunk" width="400"/>
 </div>

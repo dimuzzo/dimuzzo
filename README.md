@@ -54,5 +54,5 @@
 </p>
 
 <div align="center">
-  <img src="https://24.media.tumblr.com/13010d33870486068746a91927d46773/tumblr_mmr9wm1Cfo1qhcd6po1_r1_500.gif" alt="DaftPunk" width="400"/>
+  <img src="https://i.redd.it/hchp74msh6ly.gif" alt="DaftPunk" width="400"/>
 </div>

@@ -44,9 +44,6 @@
   <a href="https://letterboxd.com/dimuzzo/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Letterboxd-202830?style=flat&logo=letterboxd&logoColor=white" alt="Letterboxd"/>
   </a>
-  <a href="https://instagram.com/_aledemo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---

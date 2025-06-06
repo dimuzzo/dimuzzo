@@ -54,8 +54,8 @@
   <a href="https://www.youtube.com/watch?v=TCd6PfxOy0Y" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/YouTube-Veridis%20Quo%20%7C%20Daft%20Punk-FF0000?style=flat&logo=youtube&logoColor=white" alt="Veridis Quo" />
   </a>
-  <a href="https://www.youtube.com/watch?v=yP_hw6I-pBQ" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-Drive%20%7C%20The%20Weeknd-FF0000?style=flat&logo=youtube&logoColor=white" alt="Drive" />
+  <a href="https://www.youtube.com/watch?v=JIrm0dHbCDU" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/YouTube-Strangelove%20%7C%20Depeche%20Mode-FF0000?style=flat&logo=youtube&logoColor=white" alt="Strangelove" />
   </a>
   <a href="https://www.youtube.com/watch?v=_aNQFcNNnrE">
     <img src="https://img.shields.io/badge/YouTube-This%20Must%20Be%20the%20Place%20%7C%20Talking%20Heads-FF0000?style=flat&logo=youtube&logoColor=white" alt="This Must Be the Place" />
@@ -66,8 +66,8 @@
 
 ### GitHub Stats
 
-![dimuzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuzzo&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&show_icons=true)
+![dimuzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuzzo&theme=dracula&show_icons=true&rank_icon=github&ring_color=DC143C&text_bold=true&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&show_icons=true&layout=compact&text_bold=true)
 
 ---
 

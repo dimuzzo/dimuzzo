@@ -4,6 +4,14 @@
   </a>
 </p>
 
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat)
+  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=dimuzzo&color=red&style=flat&label=Profile+Views)
+  
+</div>
+
 ---
 
 ### About Me

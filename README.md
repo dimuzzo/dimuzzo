@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat)
-  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat)
+  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=dark-green)
+  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=white)
   ![Profile Views](https://komarev.com/ghpvc/?username=dimuzzo&color=red&style=flat&label=Profile+Views)
   
 </div>

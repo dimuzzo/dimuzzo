@@ -74,8 +74,12 @@
 
 ### GitHub Stats
 
-![dimuzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuzzo&theme=dracula&show_icons=true&rank_icon=github&ring_color=DC143C&text_bold=true&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&show_icons=true&layout=compact&text_bold=true)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimuzzo&theme=dracula&show_icons=true&rank_icon=github&ring_color=DC143C&text_bold=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&layout=compact&text_bold=true&langs_count=10" />
+</div>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimuzzo&theme=dracula&bg_color=282a36&color=87CEEB&line=FFFFFF&point=DC143C&area=true&height=280&title_color=DB7093)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

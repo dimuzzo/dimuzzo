@@ -91,8 +91,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&layout=compact&text_bold=true&langs_count=10" />
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimuzzo&theme=dracula&bg_color=282a36&color=87CEEB&line=FFFFFF&point=DC143C&area=true&height=280&title_color=DB7093)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 > _“If you know pain and hardship, it’s easier to be kind to others.” – Ryōji Kaji_

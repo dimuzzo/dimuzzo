@@ -21,6 +21,7 @@
 - Currently working on:
   - [AI-driven NBA score prediction](https://github.com/dimuzzo/NBA-score-prediction)
   - [Benchmarking geospatial DBs with DuckDB & OSMnx](https://github.com/dimuzzo/testing-project)
+  - [SAS quiz app](https://github.com/dimuzzo/quiz-app)
 - Curious about *(right now)*:
   - Artificial Intelligence
   - Spatial Computing
@@ -93,4 +94,4 @@
 
 ---
 
-> _“If you know pain and hardship, it’s easier to be kind to others.” – Ryōji Kaji_
+> _[dimuzzo website](https://dimuzzo.github.io/)_

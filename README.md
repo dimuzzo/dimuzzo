@@ -20,7 +20,7 @@
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
 - Currently working on:
   - [AI-driven NBA score prediction](https://github.com/dimuzzo/NBA-score-prediction)
-  - [Benchmarking geospatial DBs with DuckDB & OSMnx](https://github.com/dimuzzo/testing-project)
+  - [Benchmarking geospatial databases and datasets with DuckDB, PostGIS & GeoPandas (Python)](https://github.com/dimuzzo/testing-project)
   - [SAS quiz app](https://github.com/dimuzzo/quiz-app)
 - Curious about *(right now)*:
   - Artificial Intelligence

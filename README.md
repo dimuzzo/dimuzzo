@@ -18,13 +18,13 @@
 - Computer Science student @ UniTo 
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
 - Currently working on:
-  - [AI-driven NBA score prediction](https://github.com/dimuzzo/NBA-score-prediction)
-  - [Benchmarking geospatial databases and datasets with DuckDB, PostGIS & GeoPandas (Python)](https://github.com/dimuzzo/testing-project)
-  - [SAS quiz app](https://github.com/dimuzzo/quiz-app)
-- Curious about *(right now)*:
-  - Artificial Intelligence
-  - Spatial Computing
-  - Improving my Coding Skills
+  - _[AI-driven NBA score prediction](https://github.com/dimuzzo/NBA-score-prediction)_
+  - _[Benchmarking geospatial databases and datasets with DuckDB, PostGIS & GeoPandas (Python)](https://github.com/dimuzzo/testing-project)_
+  - _[SAS quiz app](https://github.com/dimuzzo/quiz-app)_
+- Curious about (right now):
+  - _Artificial Intelligence_
+  - _Spatial Computing_
+  - _Improving my Coding Skills_
 
 ---
 

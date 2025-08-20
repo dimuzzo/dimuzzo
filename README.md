@@ -8,7 +8,6 @@
   
   ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=dark-green)
   ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=white)
-  ![Profile Views](https://komarev.com/ghpvc/?username=dimuzzo&color=red&style=flat&label=Profile+Views)
   
 </div>
 
@@ -25,10 +24,11 @@
 - Curious about *(right now)*:
   - Artificial Intelligence
   - Spatial Computing
+  - Improving my Coding Skills
 
 ---
 
-### Tech Stack
+### Fav Tech Stack
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -54,13 +54,16 @@
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/alessandro-demo-b844a8301" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/dimuzzo" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://leetcode.com/dimuzzo/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.freecodecamp.org/dimuzzo" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/freeCodeCamp-1d1160?style=flat&logo=freecodecamp&logoColor=white" alt="Letterboxd"/>
   </a>
   <a href="https://letterboxd.com/dimuzzo/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Letterboxd-202830?style=flat&logo=letterboxd&logoColor=white" alt="Letterboxd"/>

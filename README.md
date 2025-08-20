@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=dark-green)
-  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=white)
+  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=CE2029)
+  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=CE2029)
   
 </div>
 
@@ -97,4 +97,4 @@
 
 ---
 
-> _[dimuzzo website](https://dimuzzo.github.io/)_
+> _[My Portfolio Website](https://dimuzzo.github.io/)_

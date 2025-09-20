@@ -88,13 +88,4 @@
 
 ---
 
-### GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimuzzo&theme=dracula&show_icons=true&rank_icon=github&ring_color=DC143C&text_bold=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuzzo&theme=dracula&layout=compact&text_bold=true&langs_count=10" />
-</div>
-
----
-
 > _[My Portfolio Website](https://dimuzzo.github.io/)_

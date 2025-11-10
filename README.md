@@ -15,12 +15,9 @@
 
 ### About Me
 
-- Computer Science student @ UniTo 
+- Artificial Intelligence & Data Analytics student @ PoliTo
+- Computer Science graduated @ UniTo 
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
-- Currently working on:
-  - _[AI-driven NBA score prediction](https://github.com/dimuzzo/NBA-score-prediction)_
-  - _[Benchmarking geospatial databases and datasets with DuckDB, PostGIS & GeoPandas (Python)](https://github.com/dimuzzo/testing-project)_
-  - _[SAS quiz app](https://github.com/dimuzzo/quiz-app)_
 - Curious about (right now):
   - _Artificial Intelligence_
   - _Spatial Computing_

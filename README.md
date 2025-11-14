@@ -22,6 +22,7 @@
   - _Artificial Intelligence_
   - _Spatial Computing_
   - _Improving my Coding Skills_
+- I love the [Omarchy](https://omarchy.org/) distro
 
 ---
 

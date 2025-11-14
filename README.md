@@ -16,7 +16,7 @@
 ### About Me
 
 - Artificial Intelligence & Data Analytics student @ PoliTo
-- Computer Science graduated @ UniTo 
+- Computer Science graduate @ UniTo 
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
 - Curious about (right now):
   - _Artificial Intelligence_

@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&color=F70000&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there+%F0%9F%98%81+I'm+Alessandro+aka+dimuzzo,+a+Computer+Science;graduate+and+Computer+Engineering+student.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&color=F70000&vCenter=true&multiline=true&width=450&height=150&lines=Hi+there+%F0%9F%98%81+I'm+Alessandro+aka+dimuzzo,;+a+Computer+Science+graduate+and;Computer+Engineering+student.;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
   
   ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=CE2029)
-  ![GitHub User's stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=CE2029)
+  ![GitHub Stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=CE2029&cacheSeconds=3600)
   
 </div>
 

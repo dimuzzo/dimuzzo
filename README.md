@@ -22,7 +22,7 @@
   - _Artificial Intelligence_
   - _Spatial Computing_
   - _Improving my Coding Skills_
-- I love the [Omarchy](https://omarchy.org/) distro
+- I use [Omarchy](https://omarchy.org/) BTW
 
 ---
 
@@ -73,11 +73,11 @@
 ### Favorite Songs Right Now
 
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=TCd6PfxOy0Y" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-Veridis%20Quo%20%7C%20Daft%20Punk-FF0000?style=flat&logo=youtube&logoColor=white" alt="Veridis Quo" />
+  <a href="https://www.youtube.com/watch?v=YoAjth_dwAQ" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/YouTube-ADDICTIONS%20%7C%20Brent%20Faiyaz-FF0000?style=flat&logo=youtube&logoColor=white" alt="Veridis Quo" />
   </a>
-  <a href="https://www.youtube.com/watch?v=JIrm0dHbCDU" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-Strangelove%20%7C%20Depeche%20Mode-FF0000?style=flat&logo=youtube&logoColor=white" alt="Strangelove" />
+  <a href="https://www.youtube.com/watch?v=sfDHG9vEkQQ" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/YouTube-Nights%20Like%20This%20%7C%20Future,%20Metro%20Boomin-FF0000?style=flat&logo=youtube&logoColor=white" alt="Strangelove" />
   </a>
   <a href="https://www.youtube.com/watch?v=_aNQFcNNnrE">
     <img src="https://img.shields.io/badge/YouTube-This%20Must%20Be%20the%20Place%20%7C%20Talking%20Heads-FF0000?style=flat&logo=youtube&logoColor=white" alt="This Must Be the Place" />

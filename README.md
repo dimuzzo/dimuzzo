@@ -1,28 +1,13 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&color=F70000&vCenter=true&multiline=true&width=450&height=150&lines=Hi+there+%F0%9F%98%81+I'm+Alessandro+aka+dimuzzo,;+a+Computer+Science+graduate+and;Computer+Engineering+student.;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</p>
-
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/dimuzzo?style=flat&label=Followers&color=CE2029)
-  ![GitHub Stars](https://img.shields.io/github/stars/dimuzzo?style=flat&label=Stars&color=CE2029&cacheSeconds=3600)
-  
-</div>
-
----
-
 ### About Me
 
 - Artificial Intelligence & Data Analytics student @ PoliTo
 - Computer Science graduate @ UniTo 
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
 - Curious about (right now):
-  - _Artificial Intelligence_
+  - _Machine Learning_
   - _Spatial Computing_
   - _Improving my Coding Skills_
-- I use [Omarchy](https://omarchy.org/) BTW
+- I use [Omarchy](https://omarchy.org/) as my primary OS
 
 ---
 
@@ -70,20 +55,4 @@
 
 ---
 
-### Favorite Songs Right Now
-
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=YoAjth_dwAQ" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-ADDICTIONS%20%7C%20Brent%20Faiyaz-FF0000?style=flat&logo=youtube&logoColor=white" alt="Veridis Quo" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=sfDHG9vEkQQ" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/YouTube-Nights%20Like%20This%20%7C%20Future,%20Metro%20Boomin-FF0000?style=flat&logo=youtube&logoColor=white" alt="Strangelove" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=_aNQFcNNnrE">
-    <img src="https://img.shields.io/badge/YouTube-This%20Must%20Be%20the%20Place%20%7C%20Talking%20Heads-FF0000?style=flat&logo=youtube&logoColor=white" alt="This Must Be the Place" />
-  </a>
-</p>
-
----
-
-> _[My Portfolio Website](https://dimuzzo.github.io/)_
+> _[Portfolio Website](https://dimuzzo.github.io/)_

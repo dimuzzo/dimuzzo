@@ -3,10 +3,6 @@
 - Artificial Intelligence & Data Analytics student @ PoliTo
 - Computer Science graduate @ UniTo 
 - I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
-- Curious about (right now):
-  - _Machine Learning_
-  - _Spatial Computing_
-  - _Improving my Coding Skills_
 - I use [Omarchy](https://omarchy.org/) as my primary OS
 
 ---
@@ -52,7 +48,3 @@
     <img src="https://img.shields.io/badge/Letterboxd-202830?style=flat&logo=letterboxd&logoColor=white" alt="Letterboxd"/>
   </a>
 </p>
-
----
-
-> _[Portfolio Website](https://dimuzzo.github.io/)_

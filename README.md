@@ -2,7 +2,7 @@
 
 - Artificial Intelligence & Data Analytics student @ PoliTo
 - Computer Science graduate @ UniTo 
-- I code with music in my ears, usually listening to: *The Weeknd and Daft Punk*
+- I code with music in my ears
 - I use [Omarchy](https://omarchy.org/) as my primary OS
 
 ---

@@ -1,7 +1,7 @@
 ### About Me
 
-- Artificial Intelligence & Data Analytics student @ PoliTo
-- Computer Science graduate @ UniTo 
+- Artificial Intelligence & Data Analytics student @ [Polytechnic of Turin](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-informatica-computer-engineering/piano-di-studi)
+- Computer Science graduate @ [University of Turin](https://laurea.informatica.unito.it/do/home.pl) 
 - I code with music in my ears
 - I use [Omarchy](https://omarchy.org/) as my primary OS
 

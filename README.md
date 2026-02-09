@@ -1,7 +1,6 @@
 ### About Me
 - Artificial Intelligence & Data Analytics student @ [Polytechnic of Turin](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-informatica-computer-engineering/piano-di-studi)
 - Computer Science graduate @ [University of Turin](https://laurea.informatica.unito.it/do/home.pl) 
-- I code with music in my ears
 - I use [Omarchy](https://omarchy.org/) as my primary OS
 
 ---
@@ -21,5 +20,4 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dimuzzo/)
 [![Codewars](https://img.shields.io/badge/Codewars-B71C1C?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/dimuzzo)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230a0a23.svg?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/dimuzzo)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-445566?style=flat-square&logo=letterboxd&logoColor=white)](https://letterboxd.com/dimuzzo/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimuzzo)

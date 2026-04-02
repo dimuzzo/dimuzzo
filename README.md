@@ -1,11 +1,15 @@
-### About Me
-- Artificial Intelligence & Data Analytics student @ [Polytechnic of Turin](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-informatica-computer-engineering/piano-di-studi)
-- Computer Science graduate @ [University of Turin](https://laurea.informatica.unito.it/do/home.pl) 
-- I use [Omarchy](https://omarchy.org/) as my primary OS
+### Hey there 👋
+
+I'm **Alessandro** aka **dimuzzo** 🦊
+
+- Currently M.Sc. student in **Artificial Intelligence & Data Analytics** @ [Polytechnic of Turin](https://www.polito.it/didattica/corsi-di-laurea-magistrale/ingegneria-informatica-computer-engineering/piano-di-studi)  
+- Previously B.Sc. in **Computer Science** @ [University of Turin](https://laurea.informatica.unito.it/do/home.pl)  
+- Running [Omarchy](https://omarchy.org/) as my daily driver
 
 ---
 
-### Fav Tech Stack
+### My Favourite Tech Stack
+
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -15,7 +19,8 @@
 
 ---
 
-### Find me On
+### You Can Find Me On
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-demo-b844a8301)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dimuzzo/)
 [![Codewars](https://img.shields.io/badge/Codewars-B71C1C?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/dimuzzo)
